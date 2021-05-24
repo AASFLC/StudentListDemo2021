@@ -2,7 +2,7 @@ package studentlist;
 import java.util.Scanner;
 
 /**
- *
+ * This class creates a list of students
  * @author Andraws
  */
 public class StudentList {
