@@ -2,7 +2,7 @@ package studentlist;
 
 /**
  * 
- * @author Andra
+ * @author Andra 2021
  */
 public class Student
 {
