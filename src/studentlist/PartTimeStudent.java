@@ -1,7 +1,7 @@
 package studentlist;
 
 /**
- *
+ * 
  * @author Andra
  */
 public class PartTimeStudent extends Student
