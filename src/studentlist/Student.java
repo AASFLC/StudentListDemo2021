@@ -1,7 +1,7 @@
 package studentlist;
 
 /**
- * This class creates a list of students
+ * 
  * @author Andra
  */
 public class Student
